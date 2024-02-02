@@ -14,3 +14,5 @@ python3 tr.py
 
 一个目录下的文件会被自动转换掉
 
+fork from：https://github.com/waterkokoro/ncmTranslatorScript_python
+
